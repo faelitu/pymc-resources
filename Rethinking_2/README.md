@@ -27,11 +27,11 @@ to install all the dependencies into an isolated environment.
 
 Activate the environment by running:
 
-    source activate stat-rethink2-pymc
+    conda activate stat-rethink2-pymc
 
 To use the notebooks you first have to register your new environment as a valid notebook kernel:
 
-    python -m ipykernel install --user --name stat-rethink2-pymc --display-name "Python 3.10 (stat-rethink2-pymc)"
+    python -m ipykernel install --user --name stat-rethink2-pymc --display-name "Python 3.11 (stat-rethink2-pymc)"
 
 You can start a notebook by running:
     
