@@ -31,7 +31,7 @@ Activate the environment by running:
 
 To use the notebooks you first have to register your new environment as a valid notebook kernel:
 
-    python -m ipykernel install --user --name stat-rethink2-pymc --display-name "Python 3.11 (stat-rethink2-pymc)"
+    python -m ipykernel install --user --name stat-rethink2-pymc --display-name "Python 3.12 (stat-rethink2-pymc)"
 
 You can start a notebook by running:
     
