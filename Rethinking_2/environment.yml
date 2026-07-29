@@ -46,6 +46,7 @@ dependencies:
   - importlib_metadata
   - ipykernel
   - ipython
+  - ipywidgets
   - jedi
   - jupyter_client
   - jupyter_core
